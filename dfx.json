@@ -1,6 +1,6 @@
 {
     "canisters": {
-        "atom":{
+        "first_canister":{
             "main": "main.mo",
             "type": "motoko"
         }
